@@ -29,3 +29,4 @@ This repository contains various Jupyter Notebooks and Python scripts that are a
 - Regression
   - Linear Regression
   - DNN
+  ### Resources:
